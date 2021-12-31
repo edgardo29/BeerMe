@@ -1,0 +1,31 @@
+body{
+  background: url("../assets/images/wood-background.jpg");
+  background-position:center;
+  background-attachment: fixed;
+  background-size: cover;
+background-color:  #DBD9D4;
+font-family: 'Chicle', cursive;
+color:  #343C3F
+}
+
+.card{
+  margin-top: 150px;
+}
+
+button {
+  background-color:  #E5A749;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#save-profile {
+  margin-top: 25px;
+}
+#new-card{
+  font-size:34px;
+  font-family:  'Chicle', cursive;
+  opacity: 0.8; 
+  background-color:#DBD9D4;
+  color: #343C3F;
+  margin-top: 150px;
+} 
