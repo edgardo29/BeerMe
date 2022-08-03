@@ -11,6 +11,7 @@ module.exports = {
     "host": process.env.JAWSDB_HOST,
     "port": 3306,
     "dialect": "mysql",
+    "operatorsAliases": false,
 
 
     "migrationStorage": "json",
